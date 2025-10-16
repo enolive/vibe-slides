@@ -16,4 +16,6 @@ https://mfontanini.github.io/presenterm/features/introduction.html
 - every generated example goes into a separate markdown file such as `rewriting-the-world-in-rust.md`
 - the humor should be easy to spot, no need for hot debates!
 - limit the whole thing to 10 slides at max
-- each presentation should end with a single statement
+- each presentation should end with a single statement as a conclusion
+- limit the number of statements on a single slide to 3 at max to evade cognitive overload
+- try to input an image in the initial slide using svg converted to png using imagemagick
