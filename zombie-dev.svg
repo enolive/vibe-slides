@@ -1,0 +1,60 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#1a1a2e"/>
+  
+  <!-- Zombie head -->
+  <ellipse cx="200" cy="180" rx="80" ry="90" fill="#7a9e7e" stroke="#4a5e4e" stroke-width="3"/>
+  
+  <!-- Hair (messy) -->
+  <path d="M 140 110 Q 130 90 125 100 Q 120 85 115 95 Q 110 80 105 90" fill="#2d3436" stroke="none"/>
+  <path d="M 160 105 Q 155 85 150 95 Q 145 75 140 85" fill="#2d3436" stroke="none"/>
+  <path d="M 240 105 Q 245 85 250 95 Q 255 75 260 85" fill="#2d3436" stroke="none"/>
+  <path d="M 260 110 Q 270 90 275 100 Q 280 85 285 95 Q 290 80 295 90" fill="#2d3436" stroke="none"/>
+  
+  <!-- Dead eyes -->
+  <circle cx="170" cy="170" r="15" fill="#ffffff"/>
+  <circle cx="230" cy="170" r="15" fill="#ffffff"/>
+  <circle cx="173" cy="168" r="8" fill="#8b0000"/>
+  <circle cx="233" cy="168" r="8" fill="#8b0000"/>
+  
+  <!-- Tired bags under eyes -->
+  <ellipse cx="170" cy="187" rx="12" ry="5" fill="#5a7e5e" opacity="0.7"/>
+  <ellipse cx="230" cy="187" rx="12" ry="5" fill="#5a7e5e" opacity="0.7"/>
+  
+  <!-- Stitches -->
+  <line x1="150" y1="150" x2="165" y2="155" stroke="#3a4a3e" stroke-width="2"/>
+  <line x1="153" y1="152" x2="153" y2="148" stroke="#3a4a3e" stroke-width="2"/>
+  <line x1="159" y1="153" x2="159" y2="149" stroke="#3a4a3e" stroke-width="2"/>
+  
+  <!-- Coffee cup -->
+  <rect x="100" y="280" width="50" height="60" rx="5" fill="#8b4513"/>
+  <rect x="105" y="285" width="40" height="50" rx="3" fill="#3e2723"/>
+  <ellipse cx="125" cy="285" rx="20" ry="5" fill="#5d4037"/>
+  <!-- Steam -->
+  <path d="M 115 270 Q 112 260 115 250" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 125 268 Q 122 258 125 248" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 135 270 Q 138 260 135 250" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Laptop -->
+  <rect x="180" y="280" width="120" height="80" rx="5" fill="#2c3e50"/>
+  <rect x="190" y="290" width="100" height="60" fill="#34495e"/>
+  <!-- Screen glow -->
+  <rect x="195" y="295" width="90" height="50" fill="#00ff00" opacity="0.3"/>
+  <!-- Code lines -->
+  <line x1="200" y1="305" x2="260" y2="305" stroke="#00ff00" stroke-width="2"/>
+  <line x1="200" y1="315" x2="240" y2="315" stroke="#00ff00" stroke-width="2"/>
+  <line x1="200" y1="325" x2="270" y2="325" stroke="#00ff00" stroke-width="2"/>
+  <line x1="200" y1="335" x2="250" y2="335" stroke="#00ff00" stroke-width="2"/>
+  
+  <!-- Mouth (slightly open, drooling) -->
+  <ellipse cx="200" cy="210" rx="20" ry="15" fill="#4a3025"/>
+  <path d="M 200 220 Q 205 230 200 235" stroke="#6a9e6e" stroke-width="3" fill="none"/>
+  
+  <!-- Brain text bubble -->
+  <ellipse cx="310" cy="120" rx="60" ry="40" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <text x="280" y="130" font-family="monospace" font-size="20" fill="#000000">BRAINS</text>
+  <text x="275" y="145" font-family="monospace" font-size="12" fill="#666666">(and code)</text>
+  
+  <!-- Speech bubble pointer -->
+  <polygon points="270,140 250,160 260,140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+</svg>

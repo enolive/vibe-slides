@@ -17,5 +17,5 @@ https://mfontanini.github.io/presenterm/features/introduction.html
 - the humor should be easy to spot, no need for hot debates!
 - limit the whole thing to 10 slides at max
 - each presentation should end with a single statement as a conclusion
-- limit the number of statements on a single slide to 3 at max to evade cognitive overload
+- you MUST limit the content on a slide to three sentences and a heading. The sentences need to be separate paragraphs
 - try to input an image in the initial slide using svg converted to png using imagemagick

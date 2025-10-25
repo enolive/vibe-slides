@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f0f8ff"/>
+  
+  <!-- Clock showing 3:15 (being late) -->
+  <circle cx="200" cy="120" r="80" fill="#fff" stroke="#333" stroke-width="4"/>
+  <circle cx="200" cy="120" r="5" fill="#333"/>
+  
+  <!-- Hour hand pointing to 3 -->
+  <line x1="200" y1="120" x2="240" y2="120" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Minute hand pointing to 3 (15 minutes) -->
+  <line x1="200" y1="120" x2="200" y2="60" stroke="#e63946" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Clock numbers -->
+  <text x="200" y="55" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">12</text>
+  <text x="265" y="130" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">3</text>
+  <text x="200" y="195" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">6</text>
+  <text x="135" y="130" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">9</text>
+  
+  <!-- Sunglasses on the clock (being cool/fashionable) -->
+  <rect x="160" y="105" width="35" height="20" rx="5" fill="#333"/>
+  <rect x="205" y="105" width="35" height="20" rx="5" fill="#333"/>
+  <line x1="195" y1="115" x2="205" y2="115" stroke="#333" stroke-width="3"/>
+  
+  <!-- Sparkles (virtue) -->
+  <path d="M 80 50 L 85 60 L 95 65 L 85 70 L 80 80 L 75 70 L 65 65 L 75 60 Z" fill="#ffd700"/>
+  <path d="M 320 80 L 323 87 L 330 90 L 323 93 L 320 100 L 317 93 L 310 90 L 317 87 Z" fill="#ffd700"/>
+  <path d="M 50 180 L 53 187 L 60 190 L 53 193 L 50 200 L 47 193 L 40 190 L 47 187 Z" fill="#ffd700"/>
+  
+  <!-- Text at bottom -->
+  <text x="200" y="250" font-family="Arial" font-size="32" font-weight="bold" fill="#e63946" text-anchor="middle">FASHIONABLY</text>
+  <text x="200" y="280" font-family="Arial" font-size="32" font-weight="bold" fill="#2a9d8f" text-anchor="middle">LATE</text>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#e8f4f8"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#2c3e50">
+    The Glorious Waterfall
+  </text>
+  
+  <!-- Waterfall stages -->
+  <!-- Requirements -->
+  <rect x="100" y="100" width="200" height="60" fill="#3498db" stroke="#2c3e50" stroke-width="2"/>
+  <text x="200" y="135" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white" font-weight="bold">
+    Requirements
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 200 160 L 200 190 L 350 190 L 350 200" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Design -->
+  <rect x="250" y="200" width="200" height="60" fill="#3498db" stroke="#2c3e50" stroke-width="2"/>
+  <text x="350" y="235" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white" font-weight="bold">
+    Design
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 350 260 L 350 290 L 200 290 L 200 300" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Implementation -->
+  <rect x="100" y="300" width="200" height="60" fill="#3498db" stroke="#2c3e50" stroke-width="2"/>
+  <text x="200" y="335" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white" font-weight="bold">
+    Implementation
+  </text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 200 360 L 200 390 L 350 390 L 350 400" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Testing -->
+  <rect x="250" y="400" width="200" height="60" fill="#3498db" stroke="#2c3e50" stroke-width="2"/>
+  <text x="350" y="435" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white" font-weight="bold">
+    Testing
+  </text>
+  
+  <!-- Arrow 4 -->
+  <path d="M 350 460 L 350 490 L 200 490 L 200 500" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Maintenance -->
+  <rect x="100" y="500" width="200" height="60" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <text x="200" y="535" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white" font-weight="bold">
+    Maintenance
+  </text>
+  
+  <!-- Water drops effect -->
+  <circle cx="180" cy="180" r="3" fill="#3498db" opacity="0.6"/>
+  <circle cx="220" cy="195" r="3" fill="#3498db" opacity="0.6"/>
+  <circle cx="330" cy="280" r="3" fill="#3498db" opacity="0.6"/>
+  <circle cx="370" cy="285" r="3" fill="#3498db" opacity="0.6"/>
+  <circle cx="180" cy="380" r="3" fill="#3498db" opacity="0.6"/>
+  <circle cx="220" cy="395" r="3" fill="#3498db" opacity="0.6"/>
+  <circle cx="330" cy="480" r="3" fill="#3498db" opacity="0.6"/>
+  <circle cx="370" cy="485" r="3" fill="#3498db" opacity="0.6"/>
+  
+  <!-- Happy face on the side -->
+  <circle cx="600" cy="300" r="80" fill="#f39c12" stroke="#2c3e50" stroke-width="3"/>
+  <circle cx="570" cy="280" r="10" fill="#2c3e50"/>
+  <circle cx="630" cy="280" r="10" fill="#2c3e50"/>
+  <path d="M 560 320 Q 600 350 640 320" stroke="#2c3e50" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Speech bubble -->
+  <ellipse cx="580" cy="180" rx="100" ry="50" fill="white" stroke="#2c3e50" stroke-width="2"/>
+  <polygon points="560,210 540,240 580,220" fill="white" stroke="#2c3e50" stroke-width="2"/>
+  <text x="580" y="175" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2c3e50" font-weight="bold">
+    No going back!
+  </text>
+  <text x="580" y="195" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2c3e50" font-weight="bold">
+    Perfect! 👍
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2c3e50"/>
+    </marker>
+  </defs>
+</svg>
