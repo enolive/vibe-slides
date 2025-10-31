@@ -1,6 +1,6 @@
 # 🏢 The Ultimate Guide to Reorganizing Your Shitty Big Corp
 
-![Corporate Chaos](corporate-chaos.png)
+![Corporate Chaos](assets/corporate-chaos.png)
 
 *Because moving boxes on org charts definitely solves everything* 🎯
 <!-- end_slide -->

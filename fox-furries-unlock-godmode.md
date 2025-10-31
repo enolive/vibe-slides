@@ -1,6 +1,6 @@
 # 🦊 Fox Furries: The Ultimate Developer Power-Up
 
-![Fox Furry God Mode](fox-furry-godmode.png)
+![Fox Furry God Mode](assets/fox-furry-godmode.png)
 
 How an obsession with anthropomorphic foxes unlocks the legendary IDDQD cheat code for coding mastery. 🎮✨
 <!-- end_slide -->

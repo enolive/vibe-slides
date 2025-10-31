@@ -1,6 +1,6 @@
 # Your Users Are The Best Testers: The Truth That Will Save Humanity
 
-![users best testers](users-best-testers.png)
+![users best testers](assets/users-best-testers.png)
 
 Why pay for QA when millions volunteer for free? The secret sauce to shipping world-saving software faster. 🚀🌍✨
 

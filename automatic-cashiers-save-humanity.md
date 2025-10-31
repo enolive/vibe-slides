@@ -1,6 +1,6 @@
 # Automatic Cashiers: The Greatest Invention Since The Wheel 🛒🌍
 
-![The Automatic Cashier Revolution](automatic-cashier-revolution.png)
+![The Automatic Cashier Revolution](assets/automatic-cashier-revolution.png)
 
 Welcome to the future, where human interaction is optional and bagging your own groceries is basically a superpower. 💪✨
 <!-- end_slide -->

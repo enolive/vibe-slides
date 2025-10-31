@@ -1,6 +1,6 @@
 # Coming Too Late: The Ultimate Virtue 🕐✨
 
-![Clock](./fashionably-late.png)
+![Clock](assets/fashionably-late.png)
 
 Why punctuality is overrated and tardiness will save humanity. Prepare for enlightenment. 🌍💫
 <!-- end_slide -->

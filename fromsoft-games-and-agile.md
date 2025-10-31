@@ -1,6 +1,6 @@
 # FromSoft Games & Agile Dev 🎮⚔️
 
-![bonfire](fromsoft-bonfire.png)
+![bonfire](assets/fromsoft-bonfire.png)
 
 How Dark Souls taught us that dying 47 times is actually a feature, not a bug—and why this saves the world. 💀✨
 <!-- end_slide -->

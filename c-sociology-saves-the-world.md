@@ -1,6 +1,6 @@
 # C Programming: The Sociological Superhero We Need 🦸‍♂️
 
-![C Sociology](c-sociology.png)
+![C Sociology](assets/c-sociology.png)
 
 Why coding in C is actually the best thing you can do from a sociological standpoint. Buckle up, high-level language enthusiasts—this one's about humanity. 🌍✨
 <!-- end_slide -->

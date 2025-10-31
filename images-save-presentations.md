@@ -43,7 +43,7 @@ One line of code. Infinite possibilities. World status: saveable. ✅
 
 Behold! A diagram that explains everything about how we operate:
 
-![The World-Saving Pipeline](world-saving-diagram.png)
+![The World-Saving Pipeline](assets/world-saving-diagram.png)
 
 See? Information density through the roof. Comprehension through the stratosphere. 🚀
 <!-- end_slide -->
@@ -93,7 +93,7 @@ SVG: Scalable Vector Graphics = Saving the Very Globe. (Okay, I tried.) 🦸
 Screen readers need descriptions. Accessibility isn't optional—it's how we include everyone in world-saving efforts.
 
 ```markdown
-![A diagram showing how problems become solutions](./world-saving-diagram.png)
+![A diagram showing how problems become solutions](assets/world-saving-diagram.png)
 ```
 
 That `[...]` part? That's how we make sure nobody's left behind. Inclusivity saves more worlds faster. 🤝🌈

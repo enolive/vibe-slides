@@ -19,3 +19,4 @@ https://mfontanini.github.io/presenterm/features/introduction.html
 - each presentation should end with a single statement as a conclusion
 - you MUST limit the content on a slide to three sentences and a heading. The sentences need to be separate paragraphs
 - try to input an image in the initial slide using svg converted to png using imagemagick
+- all images MUST go into the `assets` folder
