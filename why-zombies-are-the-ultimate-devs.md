@@ -1,6 +1,6 @@
 # 🧟 Why Zombies Are The Ultimate Devs
 
-![Zombie Developer](zombie-dev.png)
+![Zombie Developer](assets/zombie-dev.png)
 
 They code until death... and beyond! 💀
 
