@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="screenGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ff;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#f0f;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="fire" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff4500;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#ff8c00;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#ffd700;stop-opacity:0.7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="300" fill="#1a1a2e" rx="10"/>
+
+  <!-- Computer monitor -->
+  <rect x="100" y="40" width="200" height="140" rx="8" fill="#2d2d44" stroke="#555" stroke-width="3"/>
+  <rect x="110" y="50" width="180" height="120" rx="4" fill="url(#screenGlow)"/>
+
+  <!-- Screen content - OS boot text -->
+  <text x="125" y="75" font-family="monospace" font-size="10" fill="#000" font-weight="bold">YOLO-OS v0.0.1-alpha</text>
+  <text x="125" y="90" font-family="monospace" font-size="8" fill="#1a1a2e">> booting AI kernel...</text>
+  <text x="125" y="102" font-family="monospace" font-size="8" fill="#1a1a2e">> loading vibes.dll</text>
+  <text x="125" y="114" font-family="monospace" font-size="8" fill="#f00">> PANIC: reality.check</text>
+  <text x="125" y="126" font-family="monospace" font-size="8" fill="#f00">   failed at line 42</text>
+  <text x="125" y="138" font-family="monospace" font-size="8" fill="#1a1a2e">> asking ChatGPT...</text>
+  <text x="125" y="155" font-family="monospace" font-size="9" fill="#0f0" font-weight="bold">🔥 THIS IS FINE 🔥</text>
+
+  <!-- Monitor stand -->
+  <rect x="175" y="180" width="50" height="20" fill="#555"/>
+  <rect x="155" y="200" width="90" height="8" rx="3" fill="#555"/>
+
+  <!-- Flames around monitor -->
+  <path d="M80 180 Q85 140 95 160 Q100 130 110 155 Q115 125 120 150 L120 180 Z" fill="url(#fire)" opacity="0.8"/>
+  <path d="M280 180 Q285 135 295 158 Q298 128 305 152 Q312 120 320 150 L320 180 Z" fill="url(#fire)" opacity="0.8"/>
+
+  <!-- Skull emoji on top -->
+  <text x="200" y="35" font-size="24" text-anchor="middle">💀</text>
+
+  <!-- Bottom text -->
+  <text x="200" y="240" font-family="sans-serif" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">YOLO: An AI-Built OS</text>
+  <text x="200" y="260" font-family="sans-serif" font-size="11" fill="#aaa" text-anchor="middle">What Could Possibly Go Wrong?</text>
+
+  <!-- Small robot icon -->
+  <text x="50" y="270" font-size="20">🤖</text>
+  <text x="340" y="270" font-size="20">🔥</text>
+</svg>
