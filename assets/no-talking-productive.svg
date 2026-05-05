@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#1a1a2e"/>
+
+  <!-- Title text -->
+  <text x="400" y="80" font-family="monospace" font-size="36" font-weight="bold" fill="#e94560" text-anchor="middle">10x MORE PRODUCTIVE</text>
+  <text x="400" y="130" font-family="monospace" font-size="28" fill="#0f3460" text-anchor="middle">■■■■■■■■■■■■■■■■■■■■■■■</text>
+  <text x="400" y="175" font-family="monospace" font-size="24" fill="#e2e2e2" text-anchor="middle">by not talking to each other</text>
+
+  <!-- Big muted microphone icon (center) -->
+  <!-- Microphone body -->
+  <rect x="370" y="220" width="60" height="90" rx="30" fill="#cccccc"/>
+  <!-- Mic stand -->
+  <line x1="400" y1="310" x2="400" y2="360" stroke="#cccccc" stroke-width="6"/>
+  <line x1="370" y1="360" x2="430" y2="360" stroke="#cccccc" stroke-width="6"/>
+  <!-- Mic arc -->
+  <path d="M 340 295 Q 340 340 400 340 Q 460 340 460 295" fill="none" stroke="#cccccc" stroke-width="6"/>
+
+  <!-- Big red cross-out line -->
+  <line x1="310" y1="200" x2="490" y2="390" stroke="#e94560" stroke-width="12" stroke-linecap="round"/>
+  <line x1="490" y1="200" x2="310" y2="390" stroke="#e94560" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- Decorative silent symbols -->
+  <text x="130" y="300" font-family="monospace" font-size="60" fill="#0f3460" text-anchor="middle">🤫</text>
+  <text x="670" y="300" font-family="monospace" font-size="60" fill="#0f3460" text-anchor="middle">💻</text>
+
+  <!-- Bottom tagline -->
+  <text x="400" y="450" font-family="monospace" font-size="18" fill="#e94560" text-anchor="middle">silence is the new standup</text>
+</svg>

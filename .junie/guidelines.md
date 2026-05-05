@@ -9,6 +9,7 @@ Whole documentation of the format is here:
 
 https://mfontanini.github.io/presenterm/features/introduction.html
 
+- front matter ONLY supports: title, sub_title, author, authors (NOT date, theme, backgroundColor, textColor, etc.)
 - written in markdown
 - after each slide you place the marker `<!-- end_slide -->`
 - you put an emphasis how this whole stuff can save the world!
