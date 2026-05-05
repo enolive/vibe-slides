@@ -1,10 +1,3 @@
----
-title: Quantum Mechanics vs Functional Programming
-author: The Real Science
----
-
-<!-- end_slide -->
-
 # Quantum Mechanics PROVES Functional Programming is WRONG!
 
 *Finally, computer science meets physics*
