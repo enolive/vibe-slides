@@ -19,5 +19,5 @@ https://mfontanini.github.io/presenterm/features/introduction.html
 - limit the whole thing to 10 slides at max
 - each presentation should end with a single statement as a conclusion
 - you MUST limit the content on a slide to three sentences and a heading. The sentences need to be separate paragraphs
-- try to input an image in the initial slide using svg converted to png using imagemagick
+- ALWAYS add an image in the initial slide using SVG converted to PNG with ImageMagick (use `convert -background none assets/filename.svg assets/filename.png`). Create a simple SVG icon, save it to assets/, then convert to PNG before adding to the slide. Use `![bg contain](assets/filename.png)` syntax. REMEMBER to use the png instead of the OG svg for that.
 - all images MUST go into the `assets` folder
