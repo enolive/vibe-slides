@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#1a1a2e" rx="20"/>
+  <circle cx="100" cy="80" r="50" fill="#e94560" opacity="0.9"/>
+  <text x="100" y="95" font-family="Arial Black" font-size="60" fill="white" text-anchor="middle" font-weight="bold">∑</text>
+  <rect x="40" y="150" width="120" height="15" rx="5" fill="#16213e"/>
+  <rect x="40" y="150" width="85" height="15" rx="5" fill="#0f3460"/>
+  <circle cx="155" cy="157" r="8" fill="#e94560"/>
+  <circle cx="170" cy="157" r="4" fill="#533483"/>
+</svg>
