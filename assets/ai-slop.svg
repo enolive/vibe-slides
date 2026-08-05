@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- background swirl of slop -->
+  <ellipse cx="200" cy="320" rx="170" ry="40" fill="#6b4f2a" opacity="0.6"/>
+  <ellipse cx="200" cy="330" rx="140" ry="28" fill="#4a3520" opacity="0.8"/>
+
+  <!-- robot head -->
+  <rect x="130" y="80" width="140" height="120" rx="20" fill="#9aa7b8" stroke="#3a4655" stroke-width="6"/>
+  <rect x="145" y="100" width="110" height="50" rx="10" fill="#1c2733"/>
+  <!-- glowing eyes -->
+  <circle cx="175" cy="125" r="14" fill="#ff3b3b"/>
+  <circle cx="225" cy="125" r="14" fill="#ff3b3b"/>
+  <!-- mouth spewing slop -->
+  <rect x="180" y="160" width="40" height="14" rx="6" fill="#1c2733"/>
+
+  <!-- antenna -->
+  <line x1="200" y1="80" x2="200" y2="50" stroke="#3a4655" stroke-width="6"/>
+  <circle cx="200" cy="45" r="10" fill="#ffcc00" stroke="#3a4655" stroke-width="4"/>
+
+  <!-- slop pouring from mouth -->
+  <path d="M190 174 Q185 210 195 240 Q205 270 190 300 Q175 330 200 360" fill="none" stroke="#6b4f2a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M210 174 Q220 210 208 245 Q198 275 215 305 Q230 330 210 355" fill="none" stroke="#5a3f22" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- splatter blobs -->
+  <circle cx="150" cy="300" r="14" fill="#6b4f2a"/>
+  <circle cx="255" cy="310" r="18" fill="#7a5a35"/>
+  <circle cx="120" cy="270" r="10" fill="#5a3f22"/>
+  <circle cx="280" cy="285" r="12" fill="#6b4f2a"/>
+  <circle cx="90" cy="330" r="9" fill="#7a5a35"/>
+  <circle cx="310" cy="330" r="11" fill="#5a3f22"/>
+
+  <!-- warning sign -->
+  <polygon points="320,60 350,120 290,120" fill="#ffcc00" stroke="#3a4655" stroke-width="5"/>
+  <rect x="316" y="78" width="8" height="24" fill="#3a4655"/>
+  <circle cx="320" cy="110" r="4" fill="#3a4655"/>
+</svg>
