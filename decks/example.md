@@ -1,6 +1,6 @@
 ---
 # try also 'default' to start simple
-theme: default
+theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
@@ -27,7 +27,7 @@ duration: 5min
 
 ---
 layout: cover
-class: text-center text-3xl
+class: text-center
 ---
 
 Bold introductory statement
@@ -58,7 +58,7 @@ Bold introductory statement
 
 ---
 layout: cover
-class: text-center text-3xl
+class: text-center
 ---
 
 Conclusion statement

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev example.md --open",
+    "dev": "slidev decks/example.md",
     "export": "slidev export"
   },
   "dependencies": {

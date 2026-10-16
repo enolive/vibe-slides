@@ -1,0 +1,9 @@
+.slidev-layout {
+  p {
+    @apply text-4xl;
+  }
+  li {
+    margin-top: 0.5em;
+    @apply text-4xl;
+  }
+}
