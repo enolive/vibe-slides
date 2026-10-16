@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="105" r="60" fill="#4a90d9"/>
+  <rect x="55" y="70" width="90" height="70" rx="10" fill="#fff"/>
+  <circle cx="100" cy="105" r="45" fill="#4a90d9"/>
+  <circle cx="100" cy="105" r="35" fill="#fff"/>
+  <path d="M100 85 L100 105 L115 115" stroke="#4a90d9" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M70 55 Q100 25 130 55" stroke="#4a90d9" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="150" cy="50" r="14" fill="#f5a623"/>
+  <text x="150" y="56" font-size="18" text-anchor="middle" fill="#fff" font-family="sans-serif" font-weight="bold">AI</text>
+</svg>
