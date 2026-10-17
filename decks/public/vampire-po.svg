@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect x="20" y="50" width="160" height="120" rx="8" fill="#1e293b" stroke="#f472b6" stroke-width="4"/>
+  <path d="M100 85 L115 115 L85 115 Z" fill="#f472b6"/>
+  <circle cx="85" cy="135" r="6" fill="#e2e8f0"/>
+  <circle cx="115" cy="135" r="6" fill="#e2e8f0"/>
+  <path d="M80 80 Q85 70 95 80" fill="none" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M105 80 Q115 70 120 80" fill="none" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round"/>
+  <text x="100" y="180" font-size="14" text-anchor="middle" fill="#e2e8f0" font-family="sans-serif">PO since 1431 🧛</text>
+</svg>
