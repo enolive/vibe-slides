@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect x="20" y="60" width="60" height="85" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="4" transform="rotate(-10 50 100)"/>
-  <text x="50" y="110" font-size="30" text-anchor="middle" fill="#f59e0b" font-family="monospace" transform="rotate(-10 50 100)">13</text>
-  <rect x="115" y="60" width="60" height="85" rx="8" fill="#0f172a" stroke="#f472b6" stroke-width="4" transform="rotate(12 145 100)"/>
-  <text x="145" y="110" font-size="30" text-anchor="middle" fill="#f472b6" font-family="monospace" transform="rotate(12 145 100)">?</text>
-  <text x="100" y="35" font-size="24" text-anchor="middle" fill="#38bdf8" font-family="sans-serif">♠</text>
-</svg>
